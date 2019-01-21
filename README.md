@@ -1,1 +1,3 @@
 # voting-system
+: The “Online Voting System” is the system that aim is to reducing the complexity and cost of the election  process. Here the voter can vote in spite of his absence in the particular locality. The administrator’s effort is much reduced by checking the election status of all the localities  individually forms a place and it is easy for him to announce the election result. 
+The administrator is the soul controller of the online voting system in all process including refreshing the votes, creating new nominee and so on. Thus the online voting system can reduce the cost and effort of election process.                         
